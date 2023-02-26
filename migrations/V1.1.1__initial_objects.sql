@@ -5,3 +5,4 @@ CREATE TABLE HELLO_WORLD
   ,LAST_NAME VARCHAR
 );
 --test
+--test2
